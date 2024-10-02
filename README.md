@@ -49,6 +49,7 @@ Career Goals
 Gain experience in Artificial Intelligence and Technological Advancements.
 Enhance expertise in Software Development and Cloud Computing.
 Develop advanced proficiency in coding and technical writing.
+
 Contact Information
 Phone: +1 (346) 745-1361
 Email: olajideolanipekun1@gmail.com
