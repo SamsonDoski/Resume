@@ -1,5 +1,4 @@
-
-README: Olajide Samson Olanipekun's Resume
+Olajide Samson Olanipekun's Resume
 Welcome to the GitHub repository for Olajide Samson Olanipekun's resume.
 This repository is intended to showcase my academic background, technical skills, professional achievements, and career objectives.
 Below is a detailed overview of my resume, highlighting my key experiences and qualifications.
