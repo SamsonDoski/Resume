@@ -1,9 +1,13 @@
 
 README: Olajide Samson Olanipekun's Resume
-Welcome to the GitHub repository for Olajide Samson Olanipekun's resume. This repository is intended to showcase my academic background, technical skills, professional achievements, and career objectives. Below is a detailed overview of my resume, highlighting my key experiences and qualifications.
+Welcome to the GitHub repository for Olajide Samson Olanipekun's resume.
+This repository is intended to showcase my academic background, technical skills, professional achievements, and career objectives.
+Below is a detailed overview of my resume, highlighting my key experiences and qualifications.
 
 Objective
-I am a highly motivated and experienced Computer Scientist with a long-term goal of becoming a Computer and Information Research Scientist in the aviation industry. My current focus is on earning a Bachelor's Degree in Computer Science, while continuously advancing my skills in Programming, Artificial Intelligence, and Cloud Computing. Through internships, hands-on practical training, and ongoing learning, I am determined to perfect my coding, software development, and technical communication skills.
+I am a highly motivated and experienced Computer Scientist with a long-term goal of becoming a Computer and Information Research Scientist in the aviation industry.
+My current focus is on earning a Bachelor's Degree in Computer Science, while continuously advancing my skills in Programming, Artificial Intelligence, and Cloud Computing.
+Through internships, hands-on practical training, and ongoing learning, I am determined to perfect my coding, software development, and technical communication skills.
 
 Education
 Bachelor of Science, Computer Science (Honors College)
